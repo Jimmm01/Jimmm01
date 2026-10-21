@@ -10,6 +10,18 @@
 
 ---
 
+
+## 📫 Connect With Me
+<p>
+  <a href="https://github.com/Jimmm01">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/irfan-hazim-734a3b431">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
 ## 🔒 About Me
 
 - 🔭 Currently learning: Data Engineering and Programming
@@ -58,17 +70,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jimmm01&show_icons=true&theme=radial" alt="Statistik GitHub Irfan" />
 </p>
 
----
-
-## 📫 Connect With Me
-<p>
-  <a href="https://github.com/Jimmm01">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/irfan-hazim-734a3b431">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
 ---
 
