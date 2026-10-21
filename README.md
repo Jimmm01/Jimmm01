@@ -11,7 +11,6 @@
 <p align="center">
   🎓 <b>First-Year Undergraduate</b> in <b>Bachelor of Computer Science (Data Engineering) with Honours</b><br>
   🏛️ <b>Universiti Teknologi Malaysia (UTM)</b><br><br>
-  Passionate about technology, programming, and building impactful data solutions.
 </p>
 
 ---
